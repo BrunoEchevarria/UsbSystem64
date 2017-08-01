@@ -1,0 +1,12 @@
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\bin\Release\UsbSystem64.exe.config
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\bin\Release\UsbSystem64.exe.manifest
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\bin\Release\UsbSystem64.application
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\bin\Release\UsbSystem64.exe
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\bin\Release\UsbSystem64.pdb
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\bin\Release\MediaDevices.dll
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\bin\Release\MediaDevices.xml
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\obj\Release\UsbSystem64.csprojResolveAssemblyReference.cache
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\obj\Release\UsbSystem64.exe.manifest
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\obj\Release\UsbSystem64.application
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\obj\Release\UsbSystem64.exe
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\obj\Release\UsbSystem64.pdb

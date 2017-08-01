@@ -1,0 +1,11 @@
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\bin\Debug\UsbSystem64.exe.config
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\bin\Debug\UsbSystem64.exe.manifest
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\bin\Debug\UsbSystem64.application
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\bin\Debug\UsbSystem64.exe
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\bin\Debug\UsbSystem64.pdb
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\bin\Debug\MediaDevices.dll
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\bin\Debug\MediaDevices.xml
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\obj\Debug\UsbSystem64.exe.manifest
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\obj\Debug\UsbSystem64.application
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\obj\Debug\UsbSystem64.exe
+C:\Users\bechevarria\Documents\Visual Studio 2015\Projects\UsbSystem64\UsbSystem64\obj\Debug\UsbSystem64.pdb
